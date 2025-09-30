@@ -1,10 +1,10 @@
 {
   "mappings": [
-    "/content/aem-boilerplate/:/",
-    "/content/aem-boilerplate/configuration:/.helix/config.json",
-    "/content/aem-boilerplate/metadata:/metadata.json"
+    "/content/atest-eds-sites/:/",
+    "/content/test-eds-sites/configuration:/.helix/config.json",
+    "/content/test-eds-sites/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/aem-boilerplate/"
+    "/content/test-eds-sites/"
   ]
 }
