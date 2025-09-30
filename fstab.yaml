@@ -1,5 +1,6 @@
 mountpoints:
   /:
-    url: "https://https://author-p82002-e707352.adobeaemcloud.com/bin/franklin.delivery/fdiazmartin/test-eds-sites/main"
+    url: "https://author-p82002-e707352.adobeaemcloud.com/bin/franklin.delivery/fdiazmartin/test-eds-sites/main"
     type: "markup"
     suffix: ".html"
+cc
