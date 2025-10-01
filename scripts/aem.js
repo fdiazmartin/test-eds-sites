@@ -505,6 +505,8 @@ function decorateSections(main) {
             .filter((style) => style)
             .map((style) => toClassName(style.trim()));
           styles.forEach((style) => section.classList.add(style));
+        } else if (key === 'theme') {
+          section.classList.add(meta.theme);
         } else {
           section.dataset[toCamelCase(key)] = meta[key];
         }

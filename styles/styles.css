@@ -249,9 +249,19 @@ main > .section:first-of-type {
 }
 
 /* section metadata */
-main .section.light,
-main .section.highlight {
-  background-color: var(--light-color);
+main .section {
   margin: 0;
   padding: 40px 0;
+}
+
+main .section.light {
+  background-color: var(--light-color);
+}
+
+main .section.dark {
+  background-color: var(--dark-color);
+}
+
+main .section.highlight {
+  border: 1px solid red;
 }
