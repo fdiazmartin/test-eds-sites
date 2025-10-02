@@ -158,14 +158,14 @@
           }
         },
         {
-          "title": "Custom Component",
+          "title": "Custom",
           "id": "custom",
           "plugins": {
             "xwalk": {
               "page": {
                 "resourceType": "core/franklin/components/block/v1/block",
                 "template": {
-                  "name": "Custom Component",
+                  "name": "Custom",
                   "model": "custom",
                   "property1": "<p>This is value for property 1</p>",
                   "property2": "This is value for property 2"
