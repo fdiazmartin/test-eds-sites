@@ -80,6 +80,14 @@ body {
   line-height: 1.6;
 }
 
+body.light-theme {
+  background-color: var(--light-color);
+}
+
+body.dark-theme {
+  background-color: var(--dark-color);
+}
+
 body.appear {
   display: block;
 }
@@ -249,11 +257,6 @@ main > .section:first-of-type {
 }
 
 /* section metadata */
-main .section {
-  margin: 0;
-  padding: 40px 0;
-}
-
 main .section.light {
   background-color: var(--light-color);
 }
