@@ -16,7 +16,8 @@
       "cards",
       "columns",
       "fragment",
-      "amazing"
+      "amazing",
+      "authorList"
     ]
   },
   {
@@ -38,6 +39,12 @@
       "image",
       "button",
       "title"
+    ]
+  },
+  {
+    "id": "authorList",
+    "components": [
+      "author"
     ]
   }
 ]

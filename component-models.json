@@ -273,5 +273,37 @@
         "value": ""
       }
     ]
+  },
+  {
+    "id": "authorList",
+    "fields": [
+      {
+        "component": "text",
+        "valueType": "string",
+        "name": "text",
+        "label": "Text",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "id": "author",
+    "fields": [
+      {
+        "component": "text",
+        "valueType": "string",
+        "name": "name",
+        "label": "Name",
+        "value": ""
+      },
+      {
+        "component": "text",
+        "valueType": "string",
+        "name": "surname",
+        "label": "Surname",
+        "value": ""
+      }
+    ]
   }
+
 ]
