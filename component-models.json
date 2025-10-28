@@ -138,21 +138,46 @@
             "value": "highlight"
           }
         ]
+      }
+    ]
+  },
+  {
+    "id": "banner",
+    "fields": [
+      {
+        "component": "reference",
+        "valueType": "string",
+        "name": "bannerBackground_image",
+        "label": "Background Image",
+        "multi": false
       },
       {
-        "component": "select",
-        "name": "theme",
-        "label": "Theme",
-        "options": [
-          {
-            "name": "Light",
-            "value": "light"
-          },
-          {
-            "name": "Dark",
-            "value": "dark"
-          }
-        ]
+        "component": "text",
+        "valueType": "string",
+        "name": "bannerBackground_imageAlt",
+        "label": "Background Image Alt",
+        "value": ""
+      },
+      {
+        "component": "text",
+        "valueType": "string",
+        "name": "bannerText_title",
+        "label": "Title",
+        "value": ""
+      },
+      {
+        "component": "text",
+        "valueType": "string",
+        "name": "bannerText_subtitle",
+        "label": "Subtitle",
+        "value": ""
+      },
+      {
+        "component": "richtext",
+        "valueType": "string",
+        "name": "bannerText_body",
+        "label": "Body",
+        "value": ""
       }
     ]
   },
@@ -229,43 +254,5 @@
         "valueType": "string"
       }
     ]
-  },
-  {
-    "id": "custom",
-    "fields": [
-       {
-         "component": "richtext",
-         "name": "property1",
-         "value": "",
-         "label": "Property 1",
-         "valueType": "string"
-       },
-       {
-         "component": "text",
-         "valueType": "string",
-         "name": "property2",
-         "label": "Property 2",
-         "value": ""
-       }
-     ]
-  },
-  {
-    "id": "amazing",
-    "fields": [
-       {
-         "component": "richtext",
-         "name": "property1",
-         "value": "",
-         "label": "Property 1",
-         "valueType": "string"
-       },
-       {
-         "component": "text",
-         "valueType": "string",
-         "name": "property2",
-         "label": "Property 2",
-         "value": ""
-       }
-     ]
   }
 ]
