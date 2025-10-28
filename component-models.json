@@ -254,5 +254,24 @@
         "valueType": "string"
       }
     ]
+  },
+  {
+    "id": "amazing",
+    "fields": [
+      {
+        "component": "richtext",
+        "name": "property1",
+        "value": "",
+        "label": "Property 1",
+        "valueType": "string"
+      },
+      {
+        "component": "text",
+        "valueType": "string",
+        "name": "property2",
+        "label": "Property 2",
+        "value": ""
+      }
+    ]
   }
 ]
