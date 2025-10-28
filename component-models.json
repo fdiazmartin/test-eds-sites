@@ -292,7 +292,7 @@
       {
         "component": "text",
         "valueType": "string",
-        "name": "name",
+        "name": "firstNname",
         "label": "Name",
         "value": ""
       },
