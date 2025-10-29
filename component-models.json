@@ -273,7 +273,7 @@
         "value": ""
       },
       {
-        "component": "multiselect",
+        "component": "select",
         "name": "property2Type",
         "value": "",
         "label": "Heading Type",
