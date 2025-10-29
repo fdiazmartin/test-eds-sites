@@ -187,6 +187,7 @@
                   "model": "amazing",
                   "property1": "<p>This is amazing component</p>",
                   "property2": "Best component ever",
+                  "property2Type" : "h2",
                   "myImage" : "/content/dam/test-eds-sites/peak-performance.png",
                   "myImageAlt": "Amazing Image",
                   "amazingLink": "https://www.google.com",
