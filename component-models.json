@@ -285,6 +285,27 @@
         "name": "myImageAlt",
         "label": "Alt",
         "value": ""
+      },
+      {
+        "component": "text",
+        "valueType": "string",
+        "name": "amazingLink",
+        "label": "Link",
+        "value": ""
+      },
+      {
+        "component": "text",
+        "valueType": "string",
+        "name": "amazingLinkTitle",
+        "label": "Link Title",
+        "value": ""
+      },
+      {
+        "component": "text",
+        "valueType": "string",
+        "name": "amazingLinkText",
+        "label": "Link Text",
+        "value": ""
       }
     ]
   },

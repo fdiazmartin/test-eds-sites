@@ -188,7 +188,10 @@
                   "property1": "<p>This is amazing component</p>",
                   "property2": "Best component ever",
                   "myImage" : "/content/dam/test-eds-sites/peak-performance.png",
-                  "myImageAlt": "Amazing Image"
+                  "myImageAlt": "Amazing Image",
+                  "amazingLink": "https://www.google.com",
+                  "amazingLinkTitle": "Navigate to google.com",
+                  "amazingLinkText": "google.com"
                 }
               }
             }
