@@ -271,6 +271,20 @@
         "name": "property2",
         "label": "Property 2",
         "value": ""
+      },
+      {
+        "component": "reference",
+        "valueType": "string",
+        "name": "myImage",
+        "label": "Image",
+        "multi": false
+      },
+      {
+        "component": "text-input",
+        "valueType": "string",
+        "name": "myImageAlt",
+        "label": "Alt",
+        "value": ""
       }
     ]
   },

@@ -186,7 +186,9 @@
                   "name": "Amazing",
                   "model": "amazing",
                   "property1": "<p>This is amazing component</p>",
-                  "property2": "Best component ever"
+                  "property2": "Best component ever",
+                  "myImage" : "/content/dam/test-eds-sites/peak-performance.png",
+                  "myImageAlt": "Amazing Image"
                 }
               }
             }
