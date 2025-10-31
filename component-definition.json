@@ -192,7 +192,8 @@
                   "myImageAlt": "Amazing Image",
                   "amazingLink": "https://www.google.com",
                   "amazingLinkTitle": "Navigate to google.com",
-                  "amazingLinkText": "google.com"
+                  "amazingLinkText": "google.com",
+                  "amazingLinkType": ""
                 }
               }
             }
