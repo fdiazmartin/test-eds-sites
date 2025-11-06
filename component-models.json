@@ -337,6 +337,33 @@
         "name": "amazingLinkText",
         "label": "Link Text",
         "value": ""
+      },
+      {
+        "component": "date-time",
+        "label": "Date & Time",
+        "name": "amazingDate",
+        "valueType": "date"
+      },
+      {
+        "component": "aem-tag",
+        "label": "AEM Tag Picker",
+        "name": "cq:tags",
+        "valueType": "string"
+      },
+      {
+
+        "component": "number",
+        "valueType": "number",
+        "name": "amazingNumber",
+        "label": "Amazing Number",
+        "required": true,
+        "placeholder": null,
+        "validation": {
+          "numberMin": 1,
+          "numberMax": 10,
+          "customErrorMsg": "Amazing number should be between 1 and 10"
+        }
+
       }
     ]
   },
